@@ -15,7 +15,7 @@ Ce projet est une application de démonstration complète utilisant **Apache Kaf
 
 ### 2. Configuration Kafka avec Docker
 
-- Créer un fichier `docker-compose.yml` pour orchestrer les services
+- Créer un fichier `compose.yml` pour orchestrer les services
 - Démarrer les conteneurs Docker : Zookeeper et Kafka Broker
 - Tester la connectivité avec les outils en ligne de commande Kafka
 
